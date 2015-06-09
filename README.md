@@ -10,6 +10,7 @@
 * GitHub
 * Chrome
 * Drive
+* iTerm
 * LiceCap
 * LiveReload
 * MAMP
